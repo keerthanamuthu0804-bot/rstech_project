@@ -167,9 +167,7 @@ app.delete('/api/employees/:id', async (req, res) => {
   }
 });
 
-initDB()
-  .then(() => app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`)))
-  .catch(err => {
-    console.error('Failed to initialize DB pool:', err);
-    process.exit(1);
-  });
+app.listen(PORT, () => {
+  console.log(`Server running on http://localhost:${PORT}`);
+});
+
