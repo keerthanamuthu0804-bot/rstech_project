@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keerthanamuthu0804-bot/rstech_project/tree/main/frontend/static/css/main.f2436a5b.css",
+    "main.js": "/keerthanamuthu0804-bot/rstech_project/tree/main/frontend/static/js/main.216bd1f1.js",
+    "index.html": "/keerthanamuthu0804-bot/rstech_project/tree/main/frontend/index.html",
+    "main.f2436a5b.css.map": "/keerthanamuthu0804-bot/rstech_project/tree/main/frontend/static/css/main.f2436a5b.css.map",
+    "main.216bd1f1.js.map": "/keerthanamuthu0804-bot/rstech_project/tree/main/frontend/static/js/main.216bd1f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2436a5b.css",
+    "static/js/main.216bd1f1.js"
+  ]
+}
